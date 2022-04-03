@@ -66,6 +66,19 @@
     margin-top: 50px;
 }
 
-/* .react-multi-carousel-track {
-    text-align: center !important;
-} */
+.client__review__button {
+    margin-top: 60px;
+    text-align: center;
+}
+
+.client__review__button button {
+    border: none;
+    outline: none;
+    background: #845ec2;
+    color: #fff;
+    height: 40px;
+    width: 120px;
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+}
