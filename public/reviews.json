@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "name": "Anna Ellis",
+    "picture": "https://i.ibb.co/GPfCCtD/client-1.jpg",
+    "description": "lorem ipsum imiet it a dummy text lorem ipsum imiet it a dummy text lorem ipsum imiet it a dummy text",
+    "rating": 5
+  },
+  {
+    "id": 2,
+    "name": "Guthrie Lowery",
+    "picture": "https://i.ibb.co/qgpQJWX/client-2.jpg",
+    "description": "lorem ipsum imiet it a dummy text lorem ipsum imiet it a dummy text lorem ipsum imiet it a dummy text",
+    "rating": 5
+  },
+  {
+    "id": 3,
+    "name": "Benton Guerra",
+    "picture": "https://i.ibb.co/kMgQHFB/client-3.jpg",
+    "description": "lorem ipsum imiet it a dummy text lorem ipsum imiet it a dummy text lorem ipsum imiet it a dummy text",
+    "rating": 4.6
+  },
+  {
+    "id": 4,
+    "name": "Rosanne Golden",
+    "picture": "https://i.ibb.co/12fC5JT/client-4.jpg",
+    "description": "lorem ipsum imiet it a dummy text lorem ipsum imiet it a dummy text lorem ipsum imiet it a dummy text",
+    "rating": 4.9
+  },
+  {
+    "id": 5,
+    "name": "Kimberly Downs",
+    "picture": "https://i.ibb.co/r3FpxJz/client-5.jpg",
+    "description": "lorem ipsum imiet it a dummy text lorem ipsum imiet it a dummy text lorem ipsum imiet it a dummy text",
+    "rating": 4.7
+  },
+  {
+    "id": 6,
+    "name": "Cardenas Woods",
+    "picture": "https://i.ibb.co/StsCtVL/client-6.jpg",
+    "description": "lorem ipsum imiet it a dummy text lorem ipsum imiet it a dummy text lorem ipsum imiet it a dummy text",
+    "rating": 5
+  },
+  {
+    "id": 7,
+    "name": "Deanne Browning",
+    "picture": "https://i.ibb.co/9WkwYpN/client-7.jpg",
+    "description": "lorem ipsum imiet it a dummy text lorem ipsum imiet it a dummy text lorem ipsum imiet it a dummy text",
+    "rating": 4.5
+  },
+  {
+    "id": 8,
+    "name": "Garza Ratliff",
+    "picture": "https://i.ibb.co/8cGdVyR/client-8.jpg",
+    "description": "lorem ipsum imiet it a dummy text lorem ipsum imiet it a dummy text lorem ipsum imiet it a dummy text",
+    "rating": 4.8
+  },
+  {
+    "id": 9,
+    "name": "Salas Bradford",
+    "picture": "https://i.ibb.co/KmpttfY/client-9.jpg",
+    "description": "lorem ipsum imiet it a dummy text lorem ipsum imiet it a dummy text lorem ipsum imiet it a dummy text",
+    "rating": 5
+  }
+]
