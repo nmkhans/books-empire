@@ -8,7 +8,7 @@ function LinkTo({ children, to, ...props }) {
     return (
         <div>
             <Link
-                style={{ textDecoration: match ? "underline" : "none" }}
+                style={{ color: match ? "#845ec2" : "#000" }}
                 to={to}
                 {...props}
             >

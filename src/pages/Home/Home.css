@@ -1,0 +1,71 @@
+.home {
+    padding: 100px 0;
+}
+
+.home__hero__area {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.home__hero__text h3 {
+    font-size: 42px;
+    color: #845ec2;
+}
+
+.home__hero__text h3 span {
+    color: #222;
+}
+
+.home__hero__text h5 {
+    font-size: 22px;
+    color: #222;
+    margin-top: 15px;
+}
+
+.home__hero__text p {
+    font-size: 16px;
+    color: #7d7d7d;
+    margin-top: 20px;
+}
+
+.home__hero__text button {
+    display: inline-block;
+    border: none;
+    outline: none;
+    background: #845ec2;
+    color: #fff;
+    height: 40px;
+    width: 120px;
+    border-radius: 50px;
+    font-size: 15px;
+    font-weight: 600;
+    text-transform: capitalize;
+    margin-top: 20px;
+    cursor: pointer;
+}
+
+.home__review__area {
+    padding: 100px 0;
+}
+
+.review__title {
+    text-align: center;
+}
+
+.review__title h3 {
+    display: inline-block;
+    font-size: 40px;
+    text-transform: capitalize;
+    color: #845ec2;
+    border-bottom: 2px solid #845ec2;
+    padding-bottom: 10px;
+}
+
+.client__review {
+    margin-top: 50px;
+}
+
+/* .react-multi-carousel-track {
+    text-align: center !important;
+} */
