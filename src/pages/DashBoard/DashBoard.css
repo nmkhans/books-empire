@@ -1,0 +1,8 @@
+.dashBoard {
+    padding: 100px 0;
+}
+
+.dashBoard__content {
+    display: grid;
+    grid-template-columns: repeat(2, 2fr);
+}
