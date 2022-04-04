@@ -3,63 +3,63 @@
     "id": 1,
     "name": "Anna Ellis",
     "picture": "https://i.ibb.co/GPfCCtD/client-1.jpg",
-    "description": "lorem ipsum imiet it a dummy text lorem ipsum imiet it a dummy text lorem ipsum imiet it a dummy text",
+    "description": "The is the best book shop. I found exactly what I needed in the right time. Really recomend it",
     "rating": 5
   },
   {
     "id": 2,
     "name": "Guthrie Lowery",
     "picture": "https://i.ibb.co/qgpQJWX/client-2.jpg",
-    "description": "lorem ipsum imiet it a dummy text lorem ipsum imiet it a dummy text lorem ipsum imiet it a dummy text",
+    "description": "This is a haven of books. Trust me you will find every thing here. Its Really Awesome. I wll be here again.",
     "rating": 5
   },
   {
     "id": 3,
     "name": "Benton Guerra",
     "picture": "https://i.ibb.co/kMgQHFB/client-3.jpg",
-    "description": "lorem ipsum imiet it a dummy text lorem ipsum imiet it a dummy text lorem ipsum imiet it a dummy text",
+    "description": "Nothing to say. Really really awesome. They are amazing. With varaity and service they are the best. Great in a word.",
     "rating": 4.6
   },
   {
     "id": 4,
     "name": "Rosanne Golden",
     "picture": "https://i.ibb.co/12fC5JT/client-4.jpg",
-    "description": "lorem ipsum imiet it a dummy text lorem ipsum imiet it a dummy text lorem ipsum imiet it a dummy text",
+    "description": "If you want books. This will be the best place for you. There is no such books you cant find here. This is the place of books.",
     "rating": 4.9
   },
   {
     "id": 5,
     "name": "Kimberly Downs",
     "picture": "https://i.ibb.co/r3FpxJz/client-5.jpg",
-    "description": "lorem ipsum imiet it a dummy text lorem ipsum imiet it a dummy text lorem ipsum imiet it a dummy text",
+    "description": "Ocean if knoledge. As well as ocean of books. Just wow. Marvelus. Awesome. Mindblowing. This is the source of all books.",
     "rating": 4.7
   },
   {
     "id": 6,
     "name": "Cardenas Woods",
     "picture": "https://i.ibb.co/StsCtVL/client-6.jpg",
-    "description": "lorem ipsum imiet it a dummy text lorem ipsum imiet it a dummy text lorem ipsum imiet it a dummy text",
+    "description": "Really an Empire of books. All books can be found here. I am in love with this place. Reallt recomend this place to all people.",
     "rating": 5
   },
   {
     "id": 7,
     "name": "Deanne Browning",
     "picture": "https://i.ibb.co/9WkwYpN/client-7.jpg",
-    "description": "lorem ipsum imiet it a dummy text lorem ipsum imiet it a dummy text lorem ipsum imiet it a dummy text",
+    "description": "The books I was looking for just found here. Its the best place. The thing i wanted just got in time. Appriciate it",
     "rating": 4.5
   },
   {
     "id": 8,
     "name": "Garza Ratliff",
     "picture": "https://i.ibb.co/8cGdVyR/client-8.jpg",
-    "description": "lorem ipsum imiet it a dummy text lorem ipsum imiet it a dummy text lorem ipsum imiet it a dummy text",
+    "description": "If you want to buy books. This place is for you. Its a haven. I love this place. I will come here again.",
     "rating": 4.8
   },
   {
     "id": 9,
     "name": "Salas Bradford",
     "picture": "https://i.ibb.co/KmpttfY/client-9.jpg",
-    "description": "lorem ipsum imiet it a dummy text lorem ipsum imiet it a dummy text lorem ipsum imiet it a dummy text",
+    "description": "Books books books. Perfect for this place. Every where is books. This is Empire of books. I am really happy.",
     "rating": 5
   }
 ]
