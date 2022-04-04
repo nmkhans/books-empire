@@ -9,6 +9,9 @@ const DashBoard = () => {
     return (
         <div className="dashBoard">
             <div className="inner__dashBoard container">
+                <div className="dashBoard__title">
+                    <h2>Our Dashboard</h2>
+                </div>
                 <div className="dashBoard__content">
                     <ChartOne />
                     <ChartTwo />

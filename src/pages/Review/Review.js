@@ -10,7 +10,9 @@ const Review = () => {
         <div className="review">
             <div className="inner__review container">
                 <div className="review__content">
-                    <div className="reviews__title"></div>
+                    <div className="reviews__title">
+                        <h2>Client Reviews</h2>
+                    </div>
                     <div className="client__reviews">
                         {
                         reviews.map(client => <Reviews client={client} />)
