@@ -3,8 +3,6 @@ import StarBorderIcon from '@mui/icons-material/StarBorder';
 import './Reviews.css';
 
 const Reviews = ({ client }) => {
-    console.log(client)
-    
     return (
         <div className="reviews">
             <div className="inner__reviews">

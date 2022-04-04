@@ -4,8 +4,8 @@ import "react-multi-carousel/lib/styles.css";
 import useReviews from './../../hooks/useReviews';
 import Image from './book.png';
 import Reviews from './../../components/Reviews/Reviews';
-import './Home.css';
 import { useNavigate } from 'react-router-dom';
+import './Home.css';
 
 const Home = () => {
     const [newReview, setNewReview] = useState([]);
